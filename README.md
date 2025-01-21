@@ -23,3 +23,6 @@ creation, and login.
    
 ## Design
 ![image](startup.jpg)
+
+## IP address and Server Setup
+I successfully set up my server configurations and assigned it an elastic IP address. I also was able to remote shell into my server. 
