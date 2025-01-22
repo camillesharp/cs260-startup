@@ -29,3 +29,6 @@ I successfully set up my server configurations and assigned it an elastic IP add
 
 ## Amazon Root Services - Route 53
 I successfully purchased a domain name. It is project-260-camille. I was able to connect my IP address to the domain name.
+
+## HTTPS, TLS, and Web Certificates 
+Using Vim I was able to ssh into my server and create a secure domain.
