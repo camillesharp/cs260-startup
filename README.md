@@ -32,3 +32,6 @@ I successfully purchased a domain name. It is project-260-camille. I was able to
 
 ## HTTPS, TLS, and Web Certificates 
 Using Vim I was able to ssh into my server and create a secure domain.
+
+# HTML 
+I created the four main pages of my application. I used several different HTML tags. I learned a lot about how to use GitHub. I also learned how to deploy to my server. 
