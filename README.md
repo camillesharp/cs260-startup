@@ -39,9 +39,9 @@ I created the four main pages of my application. I used several different HTML t
 # HTML Deliverable (Rewritten)
 For this deliverable I built out the structure of my application using HTML.
 
- HTML pages - Four HTML pages that represent the ability to login, look at feed, edit their profile, and chat with others.
- Links - The login page automatically links to the feed page. The other pages are linked in the Nav bar.
- Text - Example feed is given in Lorem Ipsum.
- Images - Placeholders for images were added.
- DB/Login - Input box and submit button for login. Profile information is also kept on Database.
- WebSocket - Placeholders for the chat section were added.
+ * HTML pages - Four HTML pages that represent the ability to login, look at feed, edit their profile, and chat with others.
+ * Links - The login page automatically links to the feed page. The other pages are linked in the Nav bar.
+ * Text - Example feed is given in Lorem Ipsum.
+ * Images - Placeholders for images were added.
+ * DB/Login - Input box and submit button for login. Profile information is also kept on Database.
+ * WebSocket - Placeholders for the chat section were added.
