@@ -33,5 +33,29 @@ I successfully purchased a domain name. It is project-260-camille. I was able to
 ## HTTPS, TLS, and Web Certificates 
 Using Vim I was able to ssh into my server and create a secure domain.
 
-# HTML 
-I created the four main pages of my application. I used several different HTML tags. I learned a lot about how to use GitHub. I also learned how to deploy to my server. 
+
+# HTML Deliverable (Rewritten)
+For this deliverable I built out the structure of my application using HTML.
+
+ * HTML pages - Four HTML pages that represent the ability to login, look at feed, edit their profile, and chat with others.
+ * Links - The login page automatically links to the feed page. The other pages are linked in the Nav bar.
+ * Text - Example feed is given in Lorem Ipsum.
+ * Images - Placeholders for images were added.
+ * DB/Login - Input box and submit button for login. Profile information is also kept on Database.
+ * WebSocket - Placeholders for the chat section were added.
+
+# CSS Deliverable
+
+## Prerequisites 
+
+### CSS Practice 
+I learned more about how to make animations with CSS by practicing making the sections move into the screen. I had never done much with animations in CSS before so it has been fun to give it a try. 
+
+### CSS Flexbox 
+I learn how flexbox works. I thought it was interesting that setting flex to 0 makes it so the box does not grow. 
+
+### CSS Frameworks
+I was surprised how easy it is to add bootstrap elements into my HTML. I have never looked into Tailwind CSS, but I want to learn how to use it more.
+
+### Simon CSS
+I cloned the simon css repository and then deployed it to production. I learned that I have to be in the right folder when I deploy the code, otherwise it won't work. 
