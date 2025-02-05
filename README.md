@@ -33,8 +33,6 @@ I successfully purchased a domain name. It is project-260-camille. I was able to
 ## HTTPS, TLS, and Web Certificates 
 Using Vim I was able to ssh into my server and create a secure domain.
 
-# HTML Original Deliverable 
-I created the four main pages of my application. I used several different HTML tags. I learned a lot about how to use GitHub. I also learned how to deploy to my server. 
 
 # HTML Deliverable (Rewritten)
 For this deliverable I built out the structure of my application using HTML.
@@ -45,3 +43,10 @@ For this deliverable I built out the structure of my application using HTML.
  * Images - Placeholders for images were added.
  * DB/Login - Input box and submit button for login. Profile information is also kept on Database.
  * WebSocket - Placeholders for the chat section were added.
+
+# CSS Deliverable
+
+## Prerequisites 
+
+### CSS Practice 
+I learned more about how to make animations with CSS by practicing making the sections move into the screen. I had never done much with animations in CSS before so it has been fun to give it a try. 
