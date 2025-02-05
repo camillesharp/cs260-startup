@@ -52,7 +52,7 @@ For this deliverable I built out the structure of my application using HTML.
 I learned more about how to make animations with CSS by practicing making the sections move into the screen. I had never done much with animations in CSS before so it has been fun to give it a try. 
 
 ### CSS Flexbox 
-I learn how flexbox works. I thought it was interesting that setting flex to 0 makes it so the box does not grow. 
+I learned how flexbox works. I thought it was interesting that setting flex to 0 makes it so the box does not grow. 
 
 ### CSS Frameworks
 I was surprised how easy it is to add bootstrap elements into my HTML. I have never looked into Tailwind CSS, but I want to learn how to use it more.
