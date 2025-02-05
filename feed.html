@@ -5,6 +5,7 @@
     <!-- Tell browsers not to scale the viewport automatically -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Feed</title>
+    <link rel="stylesheet" href="main.css" />
   </head>
   <body>
     <!-- Use header, main, and footer elements to give semantic structure -->
@@ -15,38 +16,40 @@
       <nav>
         <!-- Menu is a semantic alternative to <ul> that represents an interaction -->
         <menu>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="feed.html">Feed</a></li>
-          <li><a href="messages.html">Messages</a></li>
-          <li><a href="profile.html">Profile</a></li>
+          <li><a class="nav-link" href="index.html">Home</a></li>
+          <li><a class="nav-link" href="feed.html">Feed</a></li>
+          <li><a class="nav-link" href="messages.html">Messages</a></li>
+          <li><a class="nav-link" href="profile.html">Profile</a></li>
         </menu>
       </nav>
     </header>
 
     <main>
-      <div>
-        <p>
-          Lorem Ipsum es simplemente el texto de relleno de las imprentas y
-          archivos de texto.
-        </p>
-        <a href="">Apply</a>
+      <div class="job-suggestions">
+        <div class="job-description">
+          <p>
+            Lorem Ipsum es simplemente el texto de relleno de las imprentas y
+            archivos de texto.
+          </p>
+          <a class="apply-button" href="">Apply</a>
+        </div>
+        <div class="job-description">
+          <p>
+            Lorem Ipsum es simplemente el texto de relleno de las imprentas y
+            archivos de texto.
+          </p>
+          <a class="apply-button" href="">Apply</a>
+        </div>
+        <div class="job-description">
+          <p>
+            Lorem Ipsum es simplemente el texto de relleno de las imprentas y
+            archivos de texto.
+          </p>
+          <a class="apply-button" href="">Apply</a>
+        </div>
       </div>
       <div>
-        <p>
-          Lorem Ipsum es simplemente el texto de relleno de las imprentas y
-          archivos de texto.
-        </p>
-        <a href="">Apply</a>
-      </div>
-      <div>
-        <p>
-          Lorem Ipsum es simplemente el texto de relleno de las imprentas y
-          archivos de texto.
-        </p>
-        <a href="">Apply</a>
-      </div>
-      <div>
-        <img src="example" alt="profilePic" />
+        <img src="images/company_logo_example.png" alt="company_logo" />
         <p>
           Lorem Ipsum es simplemente el texto de relleno de las imprentas y
           archivos de texto. Lorem Ipsum es simplemente el texto de relleno de
