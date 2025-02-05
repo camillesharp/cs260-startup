@@ -59,3 +59,6 @@ I was surprised how easy it is to add bootstrap elements into my HTML. I have ne
 
 ### Simon CSS
 I cloned the simon css repository and then deployed it to production. I learned that I have to be in the right folder when I deploy the code, otherwise it won't work. 
+
+## Notes
+I wrote the CSS for all of my pages. I kept it all in one file, but I am not sure if that was what I was supposed to do. I learned that it's hard to design and code at the same time. I also looked up some new things like a:hover {}, which allowed me to make links look different when the mouse is hovering over them. 
