@@ -56,3 +56,6 @@ I learn how flexbox works. I thought it was interesting that setting flex to 0 m
 
 ### CSS Frameworks
 I was surprised how easy it is to add bootstrap elements into my HTML. I have never looked into Tailwind CSS, but I want to learn how to use it more.
+
+### Simon CSS
+I cloned the simon css repository and then deployed it to production. I learned that I have to be in the right folder when I deploy the code, otherwise it won't work. 
